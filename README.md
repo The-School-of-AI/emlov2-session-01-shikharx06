@@ -1,6 +1,13 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8310499&assignment_repo_type=AssignmentRepo)
 
-# EMLO V2 - Session 01
+![SCORE](https://github.com/The-School-of-AI/emlov2-session-01-shikharx06/actions/workflows/classroom.yml/badge.svg)
+
+
+<div align="center">
+    <img src="./media/Bladezone.gif"/>
+</div>
+
+<!-- [EMLO V2 - Session 01](/media/Bladezone.gif) -->
 
 ## 01 - Docker
 
