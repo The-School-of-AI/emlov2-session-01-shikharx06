@@ -1,1 +1,6 @@
 tests/
+custom_tests/
+venv/
+outputs/
+LISCENSE
+README.md
